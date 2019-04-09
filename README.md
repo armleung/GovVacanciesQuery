@@ -1,3 +1,8 @@
+# Gov Vacancies Query RWD Page 
+![GitHub](https://img.shields.io/github/license/leoleung2000/GovVacanciesQuery.svg)
+![GitHub issues](https://img.shields.io/github/issues/leoleung2000/GovVacanciesQuery.svg)
+![GitHub stars](https://img.shields.io/github/stars/leoleung2000/GovVacanciesQuery.svg?style=social)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
