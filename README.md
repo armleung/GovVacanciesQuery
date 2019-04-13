@@ -77,7 +77,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### TODO 
 - [x] First draft of the layout
-- [ ] Item List Necessary Information
+- [ ] Script that transfer HTML to JSON
 - [ ] API fetching data from gov (Ready on Jun)
 - [ ] Swipe to save / Swipe to Remove Items in cache
 - [ ] Color Theme

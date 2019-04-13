@@ -31,7 +31,7 @@ const styles = theme => ({
   }
 });
 
-function BottomAppBar(props) {
+function MainApp(props) {
   const { classes } = props;
   return (
       <div className="container">
@@ -42,21 +42,21 @@ function BottomAppBar(props) {
           </Typography>
           <List className={classes.list}>
             <ListSubheader className={classes.subHeader}>公務員職位空缺</ListSubheader>
-              {CIVIL.map(({ id, primary,secondary,person}) => (
+              {CIVIL.map(({ id, post,salary,department}) => (
                 <Fragment key = {id}>      
                   <ListItem button>
-                    <Avatar alt="Profile Picture" src={person}/>
-                    <ListItemText primary={primary} secondary={secondary}/>
+                    <Avatar alt="Profile Picture" src={'./static/images/avatar/' + department + '.png'}/>
+                    <ListItemText primary={post} secondary={salary}/>
                   </ListItem>
                 </Fragment>
               ))}
             <Divider />
             <ListSubheader className={classes.subHeader}>非公務員職位空缺</ListSubheader>
-              {NONCIVIL.map(({ id, primary,secondary,person}) => (
+              {NONCIVIL.map(({ id, post,salary,department}) => (
                 <Fragment key = {id}>      
                   <ListItem button>
-                    <Avatar alt="Profile Picture" src={person}/>
-                    <ListItemText primary={primary} secondary={secondary}/>
+                    <Avatar alt="Profile Picture" src={'./static/images/avatar/' + department + '.png'}/>
+                    <ListItemText primary={post} secondary={salary}/>
                   </ListItem>
                 </Fragment>
               ))}
@@ -66,8 +66,8 @@ function BottomAppBar(props) {
   );
 }
 
-BottomAppBar.propTypes = {
+MainApp.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(BottomAppBar);
+export default withStyles(styles)(MainApp);
