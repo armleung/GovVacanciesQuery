@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GovVacanciesQuery/precache-manifest.9a19198db9833a969b872083a55d6d60.js"
+  "/GovVacanciesQuery/precache-manifest.f8cecb5511fa08ac3ad210c4e96631b3.js"
 );
 
 workbox.clientsClaim();
