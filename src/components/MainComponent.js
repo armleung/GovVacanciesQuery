@@ -42,23 +42,23 @@ function MainApp(props) {
           </Typography>
           <List className={classes.list}>
             <ListSubheader className={classes.subHeader}>公務員職位空缺</ListSubheader>
-              {CIVIL.map(({ id, post,salary,department}) => (
-                <Fragment key = {id}>      
+              {CIVIL.map((singleItem) => (
+                <Fragment key = {singleItem['job number']}>      
                   <ListItem button>
-                    <Avatar alt="Profile Picture" src={'./static/images/avatar/' + department + '.png'}/>
-                    <ListItemText primary={post} secondary={salary}/>
+                    <Avatar alt="Profile Picture" src={'./static/images/avatar/' + singleItem['department'] + '.png'}/>
+                    <ListItemText primary={singleItem['job title']} secondary={singleItem['salary']}/>
                   </ListItem>
                 </Fragment>
               ))}
             <Divider />
             <ListSubheader className={classes.subHeader}>非公務員職位空缺</ListSubheader>
-              {NONCIVIL.map(({ id, post,salary,department}) => (
-                <Fragment key = {id}>      
-                  <ListItem button>
-                    <Avatar alt="Profile Picture" src={'./static/images/avatar/' + department + '.png'}/>
-                    <ListItemText primary={post} secondary={salary}/>
-                  </ListItem>
-                </Fragment>
+              {NONCIVIL.map((singleItem) => (
+              <Fragment key = {singleItem['job number']}>      
+                <ListItem button>
+                  <Avatar alt="Profile Picture" src={'./static/images/avatar/' + singleItem['department'] + '.png'}/>
+                  <ListItemText primary={singleItem['job title']} secondary={singleItem['salary']}/>
+                </ListItem>
+              </Fragment>
               ))}
           </List>
         </Paper>
