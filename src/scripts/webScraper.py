@@ -31,6 +31,14 @@ def outputtojson(id_str):
     with open(outputfileName, 'w') as outfile:
         outfile.write(json.dumps(data,indent=True))
 
+    values = []
+    uniqueNames = []
+    for i in data:
+        if(i["department"] not in uniqueNames):
+            uniqueNames.append(i["department"])
+            values.append(i)
+    print(*uniqueNames,sep='\n')
+
 if __name__ == '__main__':
     outputtojson('csTable')
     outputtojson('ncsTable')
