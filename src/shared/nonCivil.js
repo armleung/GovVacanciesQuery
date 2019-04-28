@@ -1,1 +1,1 @@
-export const NONCIVIL = require('./civil_data.json');
+export const NONCIVIL = require('./noncivil_data.json');
