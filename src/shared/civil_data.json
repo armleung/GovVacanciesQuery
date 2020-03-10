@@ -1,16 +1,6 @@
 [
  {
   "department": "Agriculture, Fisheries and Conservation Department",
-  "job title": "Field Officer II (Crop)",
-  "job number": "42258",
-  "salary": "HKD$20270  Per Month",
-  "academic requirement": "Diploma or Higher Certificate",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Agriculture, Fisheries and Conservation Department",
   "job title": "Veterinary Laboratory Technician II",
   "job number": "40349",
   "salary": "HKD$20270  Per Month",
@@ -20,93 +10,73 @@
   "application via internet": "Available"
  },
  {
-  "department": "Civil Aviation Department",
-  "job title": "Air Traffic Control Officer III",
-  "job number": "42305",
-  "salary": "HKD$46420  Per Month",
-  "academic requirement": "HKALE results\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tHKCEE results",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Civil Service Bureau",
-  "job title": "Training Officer I",
-  "job number": "42292",
-  "salary": "HKD$55705  Per Month",
-  "academic requirement": "Degree",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
   "department": "Correctional Services Department",
   "job title": "Assistant Officer II",
-  "job number": "42228",
-  "salary": "HKD$20090  Per Month",
+  "job number": "42793",
+  "salary": "HKD$21150  Per Month",
   "academic requirement": "Secondary 5",
-  "posting date(dd/mm/yyyy)": "19/09/2019",
+  "posting date(dd/mm/yyyy)": "07/03/2020",
   "closing date(dd/mm/yyyy)": "Applications are accepted all year round until further notice.",
   "application via internet": "Available"
  },
  {
   "department": "Customs and Excise Department",
   "job title": "Customs Officer",
-  "job number": "42261",
-  "salary": "HKD$21285  Per Month",
+  "job number": "42717",
+  "salary": "HKD$22405  Per Month",
   "academic requirement": "HKCEE results",
-  "posting date(dd/mm/yyyy)": "01/10/2019",
+  "posting date(dd/mm/yyyy)": "04/02/2020",
   "closing date(dd/mm/yyyy)": "Applications are accepted all year round until further notice.",
-  "application via internet": "Available"
- },
- {
-  "department": "Department of Health",
-  "job title": "Dental Officer",
-  "job number": "42316",
-  "salary": "HKD$61060  Per Month",
-  "academic requirement": "Professional Qualification",
-  "posting date(dd/mm/yyyy)": "18/10/2019",
-  "closing date(dd/mm/yyyy)": "31/10/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Department of Health",
-  "job title": "Dental Surgery Assistant",
-  "job number": "42315",
-  "salary": "HKD$16790  Per Month",
-  "academic requirement": "HKCEE results",
-  "posting date(dd/mm/yyyy)": "18/10/2019",
-  "closing date(dd/mm/yyyy)": "31/10/2019 23:59:00",
   "application via internet": "Available"
  },
  {
   "department": "Department of Health",
   "job title": "Medical and Health Officer",
   "job number": "42206",
-  "salary": "HKD$66945  Per Month",
+  "salary": "HKD$70465  Per Month",
   "academic requirement": "Professional Qualification",
-  "posting date(dd/mm/yyyy)": "13/09/2019",
+  "posting date(dd/mm/yyyy)": "09/03/2020",
   "closing date(dd/mm/yyyy)": "Applications are accepted all year round until further notice.",
+  "application via internet": "Available"
+ },
+ {
+  "department": "Department of Health",
+  "job title": "Registered Nurse",
+  "job number": "42764",
+  "salary": "HKD$30165  Per Month",
+  "academic requirement": "Professional Qualification",
+  "posting date(dd/mm/yyyy)": "28/02/2020",
+  "closing date(dd/mm/yyyy)": "12/03/2020 23:59:00",
+  "application via internet": "Available"
+ },
+ {
+  "department": "Department of Justice",
+  "job title": "Court Prosecutor",
+  "job number": "42689",
+  "salary": "HKD$27340  Per Month",
+  "academic requirement": "HKALE results",
+  "posting date(dd/mm/yyyy)": "28/02/2020",
+  "closing date(dd/mm/yyyy)": "20/03/2020 18:00:00",
+  "application via internet": "Available"
+ },
+ {
+  "department": "Electrical and Mechanical Services Department",
+  "job title": "Assistant Mechanical Inspector",
+  "job number": "42751",
+  "salary": "HKD$28780  Per Month",
+  "academic requirement": "Diploma or Higher Certificate\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tHKCEE results",
+  "posting date(dd/mm/yyyy)": "06/03/2020",
+  "closing date(dd/mm/yyyy)": "19/03/2020 23:59:00",
   "application via internet": "Available"
  },
  {
   "department": "Fire Services Department",
   "job title": "Station Officer (Operational)",
-  "job number": "42335",
-  "salary": "HKD$39310  Per Month",
+  "job number": "42773",
+  "salary": "HKD$41380  Per Month",
   "academic requirement": "Degree\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tAssociate Degree or Higher Diploma\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tDiploma from a registered post-secondary college\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tHKALE results",
-  "posting date(dd/mm/yyyy)": "23/10/2019",
+  "posting date(dd/mm/yyyy)": "04/03/2020",
   "closing date(dd/mm/yyyy)": "Applications are accepted all year round until further notice.",
-  "application via internet": "Available"
- },
- {
-  "department": "Hong Kong Police Force",
-  "job title": "Artisan (Life Guard)",
-  "job number": "42284",
-  "salary": "HKD$16790  Per Month",
-  "academic requirement": "Others  :\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tPrimary 6, or equivalent",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "24/10/2019 23:59:00",
   "application via internet": "Available"
  },
  {
@@ -130,73 +100,53 @@
   "application via internet": "Available"
  },
  {
+  "department": "Housing Department",
+  "job title": "Technical Officer (Structural)",
+  "job number": "42752",
+  "salary": "HKD$21585  Per Month",
+  "academic requirement": "Diploma or Higher Certificate",
+  "posting date(dd/mm/yyyy)": "28/02/2020",
+  "closing date(dd/mm/yyyy)": "13/03/2020 23:59:00",
+  "application via internet": "Available"
+ },
+ {
   "department": "Immigration Department",
   "job title": "Immigration Assistant",
-  "job number": "42300",
-  "salary": "HKD$20690  Per Month",
+  "job number": "42771",
+  "salary": "HKD$21780  Per Month",
   "academic requirement": "HKCEE results",
-  "posting date(dd/mm/yyyy)": "09/10/2019",
+  "posting date(dd/mm/yyyy)": "03/03/2020",
   "closing date(dd/mm/yyyy)": "Applications are accepted all year round until further notice.",
   "application via internet": "Available"
  },
  {
-  "department": "Innovation and Technology Commission",
-  "job title": "Technical Officer",
-  "job number": "42318",
+  "department": "Leisure and Cultural Services Department",
+  "job title": "Artisan (Filtration Plant)",
+  "job number": "42680",
+  "salary": "HKD$17675  Per Month",
+  "academic requirement": "Primary 6 or below",
+  "posting date(dd/mm/yyyy)": "06/03/2020",
+  "closing date(dd/mm/yyyy)": "19/03/2020 23:59:00",
+  "application via internet": "Available"
+ },
+ {
+  "department": "Planning Department",
+  "job title": "Survey Officer (Planning)",
+  "job number": "42762",
   "salary": "HKD$21585  Per Month",
   "academic requirement": "Diploma or Higher Certificate",
-  "posting date(dd/mm/yyyy)": "18/10/2019",
-  "closing date(dd/mm/yyyy)": "01/11/2019 23:59:00",
+  "posting date(dd/mm/yyyy)": "28/02/2020",
+  "closing date(dd/mm/yyyy)": "13/03/2020 18:00:00",
   "application via internet": "Available"
  },
  {
-  "department": "Judiciary",
-  "job title": "Judiciary Administrator",
-  "job number": "42229",
-  "salary": "HKD$281750  Per Month",
-  "academic requirement": "Degree",
-  "posting date(dd/mm/yyyy)": "20/09/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 17:00:00",
-  "application via internet": "Not Applicable"
- },
- {
-  "department": "Marine Department",
-  "job title": "Artisan (Carpenter)",
-  "job number": "42321",
-  "salary": "HKD$16790  Per Month",
-  "academic requirement": "Primary 6 or below",
-  "posting date(dd/mm/yyyy)": "18/10/2019",
-  "closing date(dd/mm/yyyy)": "01/11/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Radio Television Hong Kong",
-  "job title": "Telecommunications Engineer",
-  "job number": "42317",
-  "salary": "HKD$66945  Per Month",
-  "academic requirement": "Professional Qualification",
-  "posting date(dd/mm/yyyy)": "18/10/2019",
-  "closing date(dd/mm/yyyy)": "01/11/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Water Supplies Department",
-  "job title": "Works Supervisor II (Civil)",
-  "job number": "42293",
-  "salary": "HKD$21585  Per Month",
-  "academic requirement": "Certificate\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tOthers  :\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tF.3",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 23:59:00",
-  "application via internet": "Available"
- },
- {
-  "department": "Water Supplies Department",
-  "job title": "Works Supervisor II (Electrical)",
-  "job number": "42294",
-  "salary": "HKD$21585  Per Month",
-  "academic requirement": "Certificate\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tOthers  :\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tSecondary 3 standard",
-  "posting date(dd/mm/yyyy)": "11/10/2019",
-  "closing date(dd/mm/yyyy)": "25/10/2019 23:59:00",
+  "department": "Social Welfare Department",
+  "job title": "Social Security Assistant",
+  "job number": "42708",
+  "salary": "HKD$20035  Per Month",
+  "academic requirement": "HKCEE results",
+  "posting date(dd/mm/yyyy)": "06/03/2020",
+  "closing date(dd/mm/yyyy)": "19/03/2020 23:59:00",
   "application via internet": "Available"
  }
 ]
