@@ -24,9 +24,9 @@ def outputtojson(id_str):
 
     outputfileName = ''
     if id_str == 'csTable':
-        outputfileName = os.path.dirname(__file__) + '/../shared/civil_data.json'
+        outputfileName = os.path.dirname(__file__) + '../shared/civil_data.json'
     else:
-        outputfileName = os.path.dirname(__file__) + '/../shared/noncivil_data.json'
+        outputfileName = os.path.dirname(__file__) + '../shared/noncivil_data.json'
 
     with open(outputfileName, 'w') as outfile:
         outfile.write(json.dumps(data,indent=True))
